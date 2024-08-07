@@ -45,3 +45,28 @@ Colocar emote = apenas colocar : e o emoji desejado. Ex:
 Citações e marcações = > mais texto. Ex:
 > Bão dms zé 😁
 
+<br>
+~~ = Insere um risco na frase. Ex: ~~Teste~~
+<br>
+*** = Inseri uma linha para separar.
+<br>
+Numero + . = Inseri uma lista numerada. Ex: 
+1. carro 2 
+2.  carro 1 
+
+Lista demarcada = Inseri uma lista demarcada. Ex:
+<br>
+* Teste
+* Teste
+  * Teste
+
+Lista de Tarefas = cria tarefas. Ex: 
+
+- [X] Fazer o front
+- [X] Fazer o back
+- [ ] Finalizar projeto
+
+Criando links:
+
+[Meu GitHub](https://github.com/JonathanMacedo)
+>>>>>>> Stashed changes
