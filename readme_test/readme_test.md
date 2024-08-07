@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Testando a linguagem MarkDown!
 ***
 "#" = Insere um titulo, dependendo da quantidade de #, insere um tamanho de titulo diferente.
@@ -45,6 +46,14 @@ Colocar emote = apenas colocar : e o emoji desejado. Ex:
 Citações e marcações = > mais texto. Ex:
 > Bão dms zé 😁
 
+=======
+# Testando a linguagem MarkDown!
+***
+"#" = Insere um titulo, dependendo da quantidade de #, insere um tamanho de titulo diferente.
+<br>
+** = Insere italico. Ex: *Teste*
+<br>
+__ = Inseri um negrito. Ex: __Teste__
 <br>
 ~~ = Insere um risco na frase. Ex: ~~Teste~~
 <br>
