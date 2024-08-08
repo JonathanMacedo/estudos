@@ -1,0 +1,17 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Dracula Theme",
+  "symbols.hidesExplorerArrows": false,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 17,
+  "workbench.iconTheme": "symbols",
+  "files.autoSave": "afterDelay",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.autofetch": true,
+  "cSpell.words": ["cursoid"]
+}
