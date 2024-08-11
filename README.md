@@ -11,4 +11,4 @@
 
 * 🦊 O MDN Web Docs é ótimo para tirar dúvidas e revisar conceitos rapidamente. 👉 [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
 
-#### Vou incluir os links dos materiais que estou estudando nas pastas correspondentes no README.md, e também os links para adquirir os livros. 🧐
+#### Vou incluir os links dos materiais que estou estudando nas pastas correspondentes no *README.md*, e também os links para adquirir os livros. 🧐
