@@ -2,4 +2,4 @@
 
 ## Conteúdos utilizados:
 
-* [Curso em Vídeo](https://www.youtube.com/live/xEKo29OWILE?feature=shared)
+* Aulas de Git e GitHub do Curso em Vídeo. 👉 [Assistir as aulas](https://www.youtube.com/live/xEKo29OWILE?feature=shared)
