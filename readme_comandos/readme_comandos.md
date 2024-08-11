@@ -2,7 +2,7 @@
 ***
 "#" = Insere um titulo, dependendo da quantidade de #, insere um tamanho de titulo diferente.
 <br>
-** = Insere italico. Ex: *Teste*
+** = Insere itálico. Ex: *Teste*
 <br>
 __ = Inseri um negrito. Ex: __Teste__
 <br>
@@ -33,11 +33,11 @@ Criação de tabela:
 Num | Nome | Nota
 ---|---|---
 1 | Jonathan | 10
-2 | Otavio | 2,3
+2 | Otávio | 2,3
 3 | Rafael | 0 
 
-`` Crase = adiciona formatação de codigo. Ex:  
-` const explo = "Hello Word!"`
+`` Crase = adiciona formatação de código. Ex:  
+` const exemplo = "Hello Word!"`
 
 Colocar emote = apenas colocar : e o emoji desejado. Ex:
 😄
