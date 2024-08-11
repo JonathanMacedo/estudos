@@ -42,6 +42,6 @@ Num | Nome | Nota
 Colocar emote = apenas colocar : e o emoji desejado. Ex:
 😄
 
-Citações e marcações = > mais texto. Ex:
+Citações e marcações = > + texto. Ex:
 > Bão dms zé 😁
 
