@@ -2,7 +2,7 @@
 
 ## Este repositório será destinado para a atualizações de meus estudos. 😁
 
-### Conteúdos que utilizo para estudos e recomendo:
+### Fontes que utilizo para estudos e recomendo:
 * 🎓 Gustavo Guanabara é um mestre na arte de ensinar! Ele transforma conceitos complicados em algo tão simples que até parece brincadeira para os iniciantes. 👉 [Curso em Vídeo](https://youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ?feature=shared)
 
 * 💻 Bruno P. Campos é um professor incrível, ele ensina tudo, desde o básico até o avançado, em uma grande variedade de tecnologias. 👉 [CFBCursos](https://youtube.com/@cfbcursos?feature=shared)
