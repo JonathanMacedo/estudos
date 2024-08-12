@@ -1,4 +1,4 @@
-# Estudos Banco de Dados 🏧
+# Estudos Banco de Dados 🏦
 
 ## Conteúdos utilizados:
 
