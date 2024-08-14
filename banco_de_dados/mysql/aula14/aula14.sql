@@ -1,2 +1,3 @@
-select upper(s_nomecliente_cliente) as nomeCliente, i_cliente_cliente as idClient, i_cliente_cliente * 2 as valorCliente
- from cliente as tbc /*Normalmente não se usa o AS em tabelas mas se pode utilizar para dar "apelidos" na tabela.*/
+select distinct i_cliente_cliente from venda;
+
+ select distinct i_cliente_cliente from venda
