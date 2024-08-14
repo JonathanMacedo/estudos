@@ -1,0 +1,27 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  border: none;
+  box-sizing: border-box;
+  font-size: large;
+}
+
+#valor1,
+#valor2,
+#res {
+  border-radius: 5%;
+  padding: 10px;
+  background-color: gray;
+  margin-top: 20px;
+}
+.opera{
+    display: flex;
+}
+
+#btn {
+  padding: 5px 15px;
+  border: 2px solid #ddd;
+  display: flex;
+  margin: 5px;
+  cursor: pointer;
+}

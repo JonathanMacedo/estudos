@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aula 53</title>
+    <link rel="stylesheet" href="aula53.css" />
+  </head>
+  <body>
+    <div id="caixapai" class="caixapai">
+      <div class="valores">
+        <div>
+          <label>Valor 1</label>
+          <input type="text" value="0" name="valor1" id="valor1" />
+        </div>
+        <div>
+          <label>Valor 2</label>
+          <input type="text" value="0" name="valor2" id="valor2" />
+        </div>
+        <div class="valor">
+          <label>Resultado</label>
+          <input
+            type="text"
+            value="0"
+            name="res"
+            id="res"
+            readonly
+            style="cursor: not-allowed"
+          />
+        </div>
+      </div>
+      <div id="opera">
+        <button id="soma" class="btn">+</button>
+        <button id="sub" class="btn">-</button>
+        <button id="mult" class="btn">x</button>
+        <button id="div" class="btn" onclick="">/</button>
+      </div>
+    </div>
+
+    <script src="aula53.js"></script>
+  </body>
+</html>
