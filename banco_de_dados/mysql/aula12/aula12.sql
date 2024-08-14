@@ -1,4 +1,4 @@
-/* FROM é uma clausula do SELECT, outras clausulas:
+/* FROM é uma clausula do SELECT, outras clausulas SELECT:
 FROM: Comando usado para fazer consulta;
 WHERE: Comando de filtro das consultas;
 GROUP BY: Comando de agrupamento de linhas;
