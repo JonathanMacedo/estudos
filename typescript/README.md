@@ -1,4 +1,4 @@
-# Estudo de TypeScript
+# Estudo de TypeScript 🎯
 
 ## Conteúdos utilizados:
 
